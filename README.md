@@ -1,7 +1,6 @@
-<div style="font-size: 40px;display: flex;flex-direction: column;align-items: center;">
-  <div>👷‍♂️🏗️</div>
-  <span style="font-weight: 700">create-action-redux<span>
-</div>
+<h1 align="center">
+  <a href="https://github.com/eliezer-souza/create-action-redux"><img src="https://i.imgur.com/nfBMwl9.png" /></a>
+</h1>
 <hr />
 
 ## 📖 Overview
