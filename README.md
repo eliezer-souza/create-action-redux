@@ -66,7 +66,7 @@ actions: {
 Example of use
 
 ```js
-import createActions from "..";
+import createActions from "create-action-redux";
 
 export const { Actions, Types } = createActions({
   options: { prefix: "app" },
