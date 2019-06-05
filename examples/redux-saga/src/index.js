@@ -4,14 +4,11 @@ import createSagaMiddleware from "redux-saga";
 import { Provider } from "react-redux";
 import ReactDOM from "react-dom";
 
-import AppSimple from "./examples/simple";
-import simpleReducers from "./examples/simple/reducer";
-import AppSaga from "./examples/saga";
-import sagaReducers from "./examples/saga/reducer";
-import sagas from "./examples/saga/saga";
+import App from "./App";
+import sagaReducers from "./reducer";
+import sagas from "./saga";
 
 const reducers = combineReducers({
-  simple: simpleReducers,
   saga: sagaReducers
 });
 
@@ -33,8 +30,7 @@ sagaMiddleware.run(sagas);
 
 ReactDOM.render(
   <Provider store={store}>
-    <AppSimple />
-    <AppSaga />
+    <App />
   </Provider>,
   document.getElementById("root")
 );
