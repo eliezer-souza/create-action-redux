@@ -19,7 +19,7 @@
          alt="install size">
   </a>
 
-  <a href="LICENSE.md">
+  <a href="LICENSE">
     <img src="https://badgen.net/badge/license/MIT/blue" alt="">
   </a>
 </p>
