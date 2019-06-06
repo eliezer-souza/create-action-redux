@@ -19,7 +19,7 @@
          alt="install size">
   </a>
 
-  <a href="LICENSE.md">
+  <a href="LICENSE">
     <img src="https://badgen.net/badge/license/MIT/blue" alt="">
   </a>
 </p>
@@ -66,7 +66,7 @@ actions: {
 Example of use
 
 ```js
-import createActions from "..";
+import createActions from "create-action-redux";
 
 export const { Actions, Types } = createActions({
   options: { prefix: "app" },
