@@ -18,6 +18,16 @@
     <img src="https://packagephobia.now.sh/badge?p=create-action-redux"
          alt="install size">
   </a>
+  
+  <a href="https://travis-ci.org/eliezer-souza/create-action-redux">
+    <img src="https://img.shields.io/travis/eliezer-souza/create-action-redux.svg"
+         alt="install size">
+  </a>
+  
+  <a href="https://coveralls.io/github/eliezer-souza/create-action-redux?branch=master">
+    <img src="https://coveralls.io/repos/github/eliezer-souza/create-action-redux/badge.svg?branch=master"
+         alt="install size">
+  </a>
 
   <a href="LICENSE">
     <img src="https://badgen.net/badge/license/MIT/blue" alt="">
