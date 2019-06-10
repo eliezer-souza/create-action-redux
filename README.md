@@ -147,8 +147,8 @@ To pass the input parameters **defaultActions** follows the same pattern. By def
 
 ## 🗃 Examples
 
-- **[basic](https://github.com/eliezer-souza/create-action-redux/tree/master/src/examples/simple)**
-- **[redux-saga](https://github.com/eliezer-souza/create-action-redux/tree/master/src/examples/saga)**
+- **[basic](https://github.com/eliezer-souza/create-action-redux/tree/master/examples/basic)**
+- **[redux-saga](https://github.com/eliezer-souza/create-action-redux/tree/master/examples/redux-saga)**
 
 ## 👀 Demo Sandbox
 
