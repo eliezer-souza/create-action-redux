@@ -18,6 +18,16 @@
     <img src="https://packagephobia.now.sh/badge?p=create-action-redux"
          alt="install size">
   </a>
+  
+  <a href="https://travis-ci.org/eliezer-souza/create-action-redux">
+    <img src="https://img.shields.io/travis/eliezer-souza/create-action-redux.svg"
+         alt="install size">
+  </a>
+  
+  <a href="https://coveralls.io/github/eliezer-souza/create-action-redux?branch=master">
+    <img src="https://coveralls.io/repos/github/eliezer-souza/create-action-redux/badge.svg?branch=master"
+         alt="install size">
+  </a>
 
   <a href="LICENSE">
     <img src="https://badgen.net/badge/license/MIT/blue" alt="">
@@ -26,6 +36,8 @@
 <hr />
 
 ## 📖 Overview
+
+**create-react-redux** has <a href="https://reactjs.org/docs/hooks-reference.html">hooks</a> support, view in the examples area.
 
 A simple middleware for create actions in redux, following as basic skeleton <a href="https://github.com/infinitered/reduxsauce">reduxsauce</a> createActions however with several changes and simpler.
 
@@ -137,8 +149,10 @@ To pass the input parameters **defaultActions** follows the same pattern. By def
 
 ## 🗃 Examples
 
-- **[basic](https://github.com/eliezer-souza/create-action-redux/tree/master/src/examples/simple)**
-- **[redux-saga](https://github.com/eliezer-souza/create-action-redux/tree/master/src/examples/saga)**
+- **[hooks(useReducer)](https://github.com/eliezer-souza/create-action-redux/tree/master/examples/hooks)**
+- **[react-redux-hooks(v7.1.0)](https://github.com/eliezer-souza/create-action-redux/tree/master/examples/react-redux-hooks)**
+- **[redux](https://github.com/eliezer-souza/create-action-redux/tree/master/examples/redux)**
+- **[redux-saga](https://github.com/eliezer-souza/create-action-redux/tree/master/examples/redux-saga)**
 
 ## 👀 Demo Sandbox
 

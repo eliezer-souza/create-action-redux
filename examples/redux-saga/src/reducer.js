@@ -1,4 +1,4 @@
-import createActions from "create-action-redux";
+import createActions from "../../react-redux-hooks/src/node_modules/create-action-redux";
 
 export const { Actions, Types } = createActions({
   options: { prefix: "saga" },
