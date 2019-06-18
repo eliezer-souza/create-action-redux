@@ -37,6 +37,8 @@
 
 ## 📖 Overview
 
+**create-react-redux** has <a href="https://reactjs.org/docs/hooks-reference.html">hooks</a> support, view in the examples area.
+
 A simple middleware for create actions in redux, following as basic skeleton <a href="https://github.com/infinitered/reduxsauce">reduxsauce</a> createActions however with several changes and simpler.
 
 ## 💻 Install and Usage
@@ -147,7 +149,9 @@ To pass the input parameters **defaultActions** follows the same pattern. By def
 
 ## 🗃 Examples
 
-- **[basic](https://github.com/eliezer-souza/create-action-redux/tree/master/examples/basic)**
+- **[hooks(useReducer)](https://github.com/eliezer-souza/create-action-redux/tree/master/examples/hooks)**
+- **[react-redux-hooks(v7.1.0)](https://github.com/eliezer-souza/create-action-redux/tree/master/examples/react-redux-hooks)**
+- **[redux](https://github.com/eliezer-souza/create-action-redux/tree/master/examples/redux)**
 - **[redux-saga](https://github.com/eliezer-souza/create-action-redux/tree/master/examples/redux-saga)**
 
 ## 👀 Demo Sandbox
